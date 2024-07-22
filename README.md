@@ -15,7 +15,7 @@
 ![Gallery](promotion/Gallery.png)
 
 ### Contact Page
-![Contact](promotion/Contact.png)
+![Contact](promotion/ContactMe.png)
 
 
 
