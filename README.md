@@ -23,18 +23,4 @@
 
 
 
-This project is designed to showcase...
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Installation
-
-Instructions for installing the project...
-
-## Usage
-
-Instructions for using the project...
